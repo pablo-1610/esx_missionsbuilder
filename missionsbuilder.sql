@@ -1,0 +1,1 @@
+CREATE TABLE `eventsPresets` ( `id` INT NOT NULL AUTO_INCREMENT , `createdBy` TEXT NOT NULL , `label` VARCHAR(50) NOT NULL , `presetInfos` TEXT NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
